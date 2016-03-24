@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/JoshWillik/rollpoll#readme",
   "dependencies": {
+    "cli-spinner": "^0.2.4",
+    "promise-wait": "^1.0.0",
     "request-promise": "^2.0.1"
   }
 }
