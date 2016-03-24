@@ -1,6 +1,6 @@
 {
   "name": "rollpoll",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Poll websites",
   "main": "lib/index.js",
   "bin": {
