@@ -1,0 +1,28 @@
+{
+  "name": "rollpoll",
+  "version": "1.0.0",
+  "description": "Poll websites",
+  "main": "lib/index.js",
+  "bin": {
+    "rollpoll": "bin/rollpoll.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshWillik/rollpoll.git"
+  },
+  "keywords": [
+    "Poll"
+  ],
+  "author": "Josh Vanderwillik <joshwillik@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshWillik/rollpoll/issues"
+  },
+  "homepage": "https://github.com/JoshWillik/rollpoll#readme",
+  "dependencies": {
+    "request-promise": "^2.0.1"
+  }
+}
