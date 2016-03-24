@@ -5,7 +5,7 @@ A tool to poll websites and exit when it gets through
 ## Installation
 
 ```shell
-npm install -g Rollpoll
+npm install -g rollpoll
 ```
 
 ## Usage
